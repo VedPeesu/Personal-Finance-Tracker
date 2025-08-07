@@ -9,8 +9,8 @@ A personal finance and budgeting tool designed to help users manage finances, vi
 - Automated monthly backups of transactions to Google Drive accounts using a Google Drive API and cron jobs.
 
 
-#### Installation
-### **Steps**
+### Installation
+#### **Steps**
 
 
 1. Install the required libraries by running the following:
